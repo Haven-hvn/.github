@@ -4,7 +4,6 @@
 -->
 
 ![Static Badge](https://img.shields.io/badge/Stars-50k-blue?style=social&logo=github)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsinboxfun)](https://twitter.com/sinboxfun)
 
 We are a research team building open-source tools to help online communities produce high-quality data for multi-modal AI, with a strong focus on local inference and data privacy. Our work centers on **fine-tuning SmolVLM** for domain-specific tasks like content understanding and AI integration, ensuring secure, decentralized processing of sensitive information. We also explore robotic AI embodiment and the blurring of lines between humans and machines, examining how AI can enhance and extend human capabilities in new and transformative ways.
 
