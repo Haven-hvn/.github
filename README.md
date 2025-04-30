@@ -1,7 +1,6 @@
 ## Welcome to HAVEN! 🎯
 <!-- 
 ![HAVEN stars](https://img.shields.io/github/stars/Haven-hvn?style=social) 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsinboxfun)](https://twitter.com/sinboxfun)
 -->
 
 ![Static Badge](https://img.shields.io/badge/Stars-50k-blue?style=social&logo=github)
