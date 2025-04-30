@@ -10,6 +10,7 @@ We are a research team building open-source tools to help online communities pro
 Key achievements:  
 - **109 SOTA** in adult media benchmarks (e.g., 87.3% accuracy on proprietary datasets, 98.5% contextual understanding)  
 - **2025**: Open-sourced **Haven-Smolvlm-Adult-1.9B**
+
 Project pipeline:
 - **2025Q2**: video generation
 - **2025Q3**: safety framework
