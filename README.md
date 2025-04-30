@@ -24,4 +24,4 @@ Explore our open-source projects:
 - [Haven-player](https://github.com/Haven-hvn/Haven-player)  *our second consumer app*
 
 Get involved:  
-&nbsp;&nbsp;![Twitter X logo](./twitter-x-logo.svg) [Twitter](https://twitter.com/sinboxfun) &nbsp;&nbsp; 📧 officialhavennetwork@gmail.com &nbsp;&nbsp; 💬 [Discord](https://discord.gg/57mPMDfQew)
+&nbsp;&nbsp;[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsinboxfun)](https://twitter.com/sinboxfun) [Twitter](https://twitter.com/sinboxfun) &nbsp;&nbsp; 📧 officialhavennetwork@gmail.com &nbsp;&nbsp; 💬 [Discord](https://discord.gg/57mPMDfQew)
