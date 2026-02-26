@@ -13,6 +13,7 @@ Explore our open-source projects:
 - [multiplexer-llm](https://github.com/Haven-hvn/multiplexer-llm)
 - [Haven-player](https://github.com/Haven-hvn/Haven-player)
 - [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
+- [gonka-vibe](https://github.com/Haven-hvn/gonka-vibe)
 
 Get involved:  
-https://x.com/havenplay3r 📧 officialhavennetwork@gmail.com &nbsp;&nbsp; 
+https://hvn-ntwrk.orbiter.website/ 📧 officialhavennetwork@gmail.com &nbsp;&nbsp; 
