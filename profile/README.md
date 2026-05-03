@@ -6,7 +6,7 @@ We build open-source tools where AI agents own themselves, data stays encrypted,
 
 [![vlm-engine PyPI Downloads](https://img.shields.io/badge/downloads-1k_/month-blue)](https://pypistats.org/packages/vlm-engine)
 
-*vlm-engine* is gaining traction — over 1,000 downloads per month on PyPI.
+*[vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)* is gaining traction — over 1,000 downloads per month on PyPI.
 
 ### 🚀 Upcoming
 
