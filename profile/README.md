@@ -1,9 +1,6 @@
 ## HAVEN — Reclaiming the Internet for the User.
-<!-- 
-![HAVEN stars](https://img.shields.io/github/stars/Haven-hvn?style=social) 
--->
 
-![Static Badge](https://img.shields.io/badge/Stars-50k-blue?style=social&logo=github)
+[![PyPI Downloads](https://img.shields.io/badge/downloads-1k_/month-blue)](https://pypistats.org/packages/vlm-engine)
 
 We build open-source tools where AI agents own themselves, data stays encrypted, and platforms don't hold the keys. From haven-cli our decentralized video archival tool using Dfinity ICP's vetKeys to vlm-engine AI-powered media analysis without the corporate overhead—our stack ensures user sovereignty. No backends, no gatekeepers, no data silos.
 
@@ -13,4 +10,4 @@ Explore our open-source projects:
 - Media Understanding : [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
 
 Get involved:  
-https://x.com/havenplay3r 📧 officialhavennetwork@gmail.com 
+https://x.com/havenplay3r 📧 officialhavennetwork@gmail.com
