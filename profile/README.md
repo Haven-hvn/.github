@@ -12,7 +12,7 @@ We build open-source tools where AI agents own themselves, data stays encrypted,
 
 **AOL : Always Online** — An ICP-native layer for smart access management across web3. Conditional key access for token-gated content, shared access patterns suited to DAOs, DataDAOs, agent swarms, and other cooperative setups.  
 Repo: [haven-hvn/haven-aol](https://github.com/haven-hvn/haven-aol)  
-Metrics coming soon: cycles burnt 🔥 · canister contract TBD
+Metrics coming soon: cycles burnt 🔥 · canister contract [dciac-uaaaa-aaaad-qlzuq-cai](https://dashboard.internetcomputer.org/canister/dciac-uaaaa-aaaad-qlzuq-cai)
 
 Explore our open-source projects:  
 - Agent framework : [haven-core](https://github.com/Haven-hvn/haven-core)
