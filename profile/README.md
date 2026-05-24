@@ -10,14 +10,14 @@ We build open-source infrastructure where data stays encrypted and platforms don
 
 ### 🚀 The Stack
 
-**Write** - `haven-cli`
-Repo: [haven-hvn/haven-cli](https://github.com/Haven-hvn/haven-cli)
-Decentralized archival and automation. Upload to an open, verifiable on-chain cloud built on content-addressed data, transparent service delivery, and programmable payments. No vendor lock-in.
-
 **Read** - `haven-dapp`
 Repo: [haven-hvn/haven-dapp](https://github.com/haven-hvn/haven-dapp)
 Site: https://haven.orbiter.website/
 A sample Web3-powered video streaming platform. Wallet-based authentication to view encrypted content stored on IPFS/Filecoin. Fork it, modify it, and build your own frontend for your specific data and community.
+
+**Write** - `haven-cli`
+Repo: [haven-hvn/haven-cli](https://github.com/Haven-hvn/haven-cli)
+Decentralized archival and automation. Upload to an open, verifiable on-chain cloud built on content-addressed data, transparent service delivery, and programmable payments. No vendor lock-in.
 
 **Own** - `haven-aol`
 Repo: [haven-hvn/haven-aol](https://github.com/haven-hvn/haven-aol)  
@@ -28,8 +28,7 @@ The foundation. True ownership requires privacy—without it, data is just publi
 Repo: [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
 AI-powered media understanding. Verify what's inside a file without opening it—generate tags, extract metadata, and build trust in shared archives without exposing data to a corporate API.
 
-
-Get involved
+**Get involved**
 The infrastructure is live. The pipes work. What's missing are the interfaces that make this stack actually usable for specific communities and workflows. Fork haven-dapp, bend the front-end to your use case, and show us what data portability looks like when the user actually owns the gate.
 
 https://x.com/havenplay3r 📧 officialhavennetwork@gmail.com
