@@ -24,7 +24,7 @@ Repo: [haven-hvn/haven-aol](https://github.com/haven-hvn/haven-aol)
 Canister smart contract: [dciac-uaaaa-aaaad-qlzuq-cai](https://dashboard.internetcomputer.org/canister/dciac-uaaaa-aaaad-qlzuq-cai)
 The foundation. True ownership requires privacy—without it, data is just public property. haven-aol enforces file ownership through conditional access and portable attestations, ensuring only you decide who gets in. Arkiv network provides the on-chain cloud for structured metadata and relationships, making your data and its access rules portable, composable, and truly yours. Sovereign compute and identity management without corporate overhead.
 
-**Synthesize** - ``
+**Synthesize** - `vlm-engine`
 Repo: [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
 AI-powered media understanding. Verify what's inside a file without opening it—generate tags, extract metadata, and build trust in shared archives without exposing data to a corporate API.
 
