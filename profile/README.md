@@ -1,6 +1,6 @@
 ## HAVEN — Reclaiming the Internet for the User.
 
-We build open-source infrastructure where data stays encrypted and platforms don't hold the keys. No centralized backends, no gatekeepers, no data silos. From haven-cli our decentralized video archival tool using Dfinity ICP's vetKeys to vlm-engine AI-powered media analysis without the corporate overhead—our stack ensures user sovereignty.
+We build open-source infrastructure where data stays encrypted and platforms don't hold the keys. No centralized backends, no gatekeepers, no data silos.
 
 ### 📈 Trending
 
