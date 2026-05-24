@@ -1,23 +1,35 @@
 ## HAVEN — Reclaiming the Internet for the User.
 
-We build open-source tools where AI agents own themselves, data stays encrypted, and platforms don't hold the keys. From haven-cli our decentralized video archival tool using Dfinity ICP's vetKeys to vlm-engine AI-powered media analysis without the corporate overhead—our stack ensures user sovereignty. No backends, no gatekeepers, no data silos.
+We build open-source infrastructure where data stays encrypted and platforms don't hold the keys. No centralized backends, no gatekeepers, no data silos. From haven-cli our decentralized video archival tool using Dfinity ICP's vetKeys to vlm-engine AI-powered media analysis without the corporate overhead—our stack ensures user sovereignty.
 
 ### 📈 Trending
 
-[![vlm-engine PyPI Downloads](https://img.shields.io/badge/downloads-1k_/month-blue)](https://pypistats.org/packages/vlm-engine)
+[![vlm-engine PyPI Downloads](https://img.shields.io/badge/downloads-2k_/month-blue)](https://pypistats.org/packages/vlm-engine)
 
-*[vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)* is gaining traction — over 1,000 downloads per month on PyPI.
+*[vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)* is gaining traction — over 2,000 downloads per month on PyPI.
 
-### 🚀 Upcoming
+### 🚀 The Stack
 
-**AOL : Always Online** — An ICP-native layer for smart access management across web3. Conditional key access for token-gated content, shared access patterns suited to DAOs, DataDAOs, agent swarms, and other cooperative setups.  
+**Write** - `haven-cli`
+Repo: [haven-hvn/haven-cli](https://github.com/Haven-hvn/haven-cli)
+Decentralized archival and automation. Upload to an open, verifiable on-chain cloud built on content-addressed data, transparent service delivery, and programmable payments. No vendor lock-in.
+
+**Read** - `haven-dapp`
+Repo: [haven-hvn/haven-dapp](https://github.com/haven-hvn/haven-dapp)
+Site: https://haven.orbiter.website/
+A sample Web3-powered video streaming platform. Wallet-based authentication to view encrypted content stored on IPFS/Filecoin. Fork it, modify it, and build your own frontend for your specific data and community.
+
+**Own** - `haven-aol`
 Repo: [haven-hvn/haven-aol](https://github.com/haven-hvn/haven-aol)  
-Metrics coming soon: cycles burnt 🔥 · canister contract [dciac-uaaaa-aaaad-qlzuq-cai](https://dashboard.internetcomputer.org/canister/dciac-uaaaa-aaaad-qlzuq-cai)
+Canister smart contract: [dciac-uaaaa-aaaad-qlzuq-cai](https://dashboard.internetcomputer.org/canister/dciac-uaaaa-aaaad-qlzuq-cai)
+The foundation. True ownership requires privacy—without it, data is just public property. haven-aol enforces file ownership through conditional access and portable attestations, ensuring only you decide who gets in. Arkiv network provides the on-chain cloud for structured metadata and relationships, making your data and its access rules portable, composable, and truly yours. Sovereign compute and identity management without corporate overhead.
 
-Explore our open-source projects:  
-- Agent framework : [haven-core](https://github.com/Haven-hvn/haven-core)
-- Media Archival and automation : [Haven-player](https://github.com/Haven-hvn/Haven-player) & [Haven-cli](https://github.com/Haven-hvn/haven-cli)
-- Media Understanding : [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
+**Synthesize** - ``
+Repo: [vlm-engine](https://github.com/Haven-hvn/haven-vlm-engine-package)
+AI-powered media understanding. Verify what's inside a file without opening it—generate tags, extract metadata, and build trust in shared archives without exposing data to a corporate API.
 
-Get involved:  
+
+Get involved
+The infrastructure is live. The pipes work. What's missing are the interfaces that make this stack actually usable for specific communities and workflows. Fork haven-dapp, bend the front-end to your use case, and show us what data portability looks like when the user actually owns the gate.
+
 https://x.com/havenplay3r 📧 officialhavennetwork@gmail.com
