@@ -1,4 +1,4 @@
-# HAVEN — The Internet, but Your Stuff Stays Yours
+# HAVEN — Reclaiming the Internet for the user/agent.
 
 Imagine your photos, videos, and notes live in a box you own, and you hold the only key. Right now most apps work the other way: you put your stuff in *their* box, they keep the key, and if they close or get greedy, you're stuck.
 
